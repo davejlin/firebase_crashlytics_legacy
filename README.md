@@ -1,4 +1,4 @@
-# Firebase Crashlytics Legacy 0.4.0+2 for Flutter
+# Firebase Crashlytics Legacy for Flutter
 
 ## This is a forked legacy version which fixes the issue [[firebase_crashlytics] 'Flutter/Flutter.h' file not found #5440](https://github.com/FirebaseExtended/flutterfire/issues/5440). ##
 
