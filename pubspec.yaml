@@ -1,9 +1,10 @@
 name: firebase_crashlytics_legacy
 description:
   Flutter plugin for Firebase Crashlytics. It reports uncaught errors to the
-  Firebase console.
+  Firebase console. Legacy version with fix for 'Flutter/Flutter.h' file not found #5440
 version: 0.4.0+2
 homepage: https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_crashlytics
+repository: https://github.com/davejlin/firebase_crashlytics_legacy
 
 flutter:
   plugin:
