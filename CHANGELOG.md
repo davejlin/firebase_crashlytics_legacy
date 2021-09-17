@@ -1,3 +1,8 @@
+## 0.4.0+3
+
+  - rename firebase_crashlytics.podspec to firebase_crashlytics_legacy.podspec
+  - edit README
+
 ## 0.4.0+2
 
  - **FIX**: [[firebase_crashlytics] 'Flutter/Flutter.h' file not found #5440](https://github.com/FirebaseExtended/flutterfire/issues/5440)
