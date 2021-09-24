@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 
 The version of the last legacy release of Firebase Crashlytics was 0.4.0+1, which did not include the fix.  The fix was included in a later null-safe version (v2.0.0).
 
-However, using that version may cause unresolvable conflicts with other dependencies.  This fork is to provide the fix in a legacy compatible version.  This forked version is 0.4.0+2 for consistency.
+However, using that version may cause unresolvable conflicts with other dependencies.  This fork is to provide the fix in a legacy compatible version.  This forked version is numbered 0.4.0+x for consistency.
 
 A Flutter plugin to use the [Firebase Crashlytics API](https://firebase.google.com/docs/crashlytics/).
 
